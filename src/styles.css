@@ -1,0 +1,48 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-align: center;
+  font-family: "Gamja Flower", cursive;
+  user-select: none;
+}
+
+body {
+  background-color: #151515;
+}
+
+.headerText {
+  background: #151515;
+  color: #0f0;
+  font-size: 3rem;
+}
+
+.footerText {
+  color: #fff;
+  font-size: 1.1rem;
+}
+
+.card_category {
+  font-size: 1.3rem;
+  color: #e5e5e5;
+}
+
+.card_title {
+  font-size: 1.3rem;
+  color: #0f0;
+}
+
+.top_icon , .bottom_icon {
+  width: 32px;
+  height: auto;
+}
+
+.some_border {
+  border-color: #424242;
+  border-width: 0.5rem;
+  border-style: dashed double;
+}
+
+.card_bg {
+  background-color: #191919;
+}
